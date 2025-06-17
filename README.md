@@ -1,4 +1,4 @@
-# Physalia_spatial_data_visualization_course
+# Physalia_spatial_data_visualization_live
 course
 
 ##Day 1
