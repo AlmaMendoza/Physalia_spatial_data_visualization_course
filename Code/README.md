@@ -125,6 +125,7 @@ p7 <- ggRGB (m06, r=2, g=1, b=3, stretch="lin")
 p8 <- ggRGB (m06, r=2, g=1, b=3, stretch="hist")
 (p5 | p6) / (p7 |p8)
 
+![image](https://github.com/user-attachments/assets/21f72989-0b7f-40fe-a33a-53515db01495)
 
 p3 <- ggRGB(m92, r=2, g=1, b=3) + ggtitle("1992")
 p5 <- ggRGB (m06, r=2, g=1, b=3) + ggtitle("2006")
